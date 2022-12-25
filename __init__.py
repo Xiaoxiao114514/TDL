@@ -31,7 +31,7 @@ Quick Facts:
 [delete] ErrorTypeTable            |-|
 
 
-Logger:
+Log:
 DC: DirectoryChanges
 
 [    DC    ] 我们规整了 TDL 目录。
