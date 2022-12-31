@@ -1,4 +1,4 @@
-# **TLD：Transwarp Development Library**
+# **TDL：Transwarp Development Library**
 # ⏩Quick Facts:
 | Change | Name              | Original version number | Current version number |
 |--------|-------------------|-------------------------|------------------------|
